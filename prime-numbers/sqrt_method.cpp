@@ -30,6 +30,6 @@ int main()
     unsigned long long num;
     cin >> num;
 
-    is_prime(num) ? cout << "true\n" : cout << "false\n";
+    is_prime(num) ? cout << "True\n" : cout << "False\n";
     return 0;
 }
