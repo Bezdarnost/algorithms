@@ -11,6 +11,6 @@
     <summary>List of Algorithms</summary>
     <ul>
         <li>Sorting Algorithms</li>
-        <li>Prime Number Algorithms</li>
+        <li>Math Algorithms</li>
     </ul>
 </details>
