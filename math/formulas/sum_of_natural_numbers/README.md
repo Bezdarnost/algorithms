@@ -1,1 +1,11 @@
-# Here I post my formulas, which I myself derived
+$$\ \sum_{k=1}^n k^0 = n $$
+
+$$\ \sum_{k=1}^n k^1 = \frac{n(n+1)}{2} $$
+
+$$\ \sum_{k=1}^n k^2 = \frac{n(n+1)(2n+1)}{6} $$
+
+$$\ \sum_{k=1}^n k^3 = \frac{n^2(n+1)^2}{4} $$
+
+$$\ \sum_{k=1}^n k^4 = \frac{n(n+1)(2n+1)(3n^2+3n-1)}{30} $$
+
+$$\ \sum_{k=1}^n k^4 = \frac{n(n+1)(2n+1)(3n^2+3n-1)}{30} $$
