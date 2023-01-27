@@ -17,7 +17,7 @@ bool is_prime(unsigned long long num)
         return false;
     }
 
-    for (unsigned long long i = 5; i <= sqrt(num); i+=6){
+    for (unsigned long long i = 5; i <= sqrt(num)+1; i+=6){
         if (num % i == 0 || num % (i + 2) == 0){
             return false;
         }
